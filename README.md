@@ -7,10 +7,6 @@
 | `configs/RPToolkit-AdminLink/keystore.json` | ключи администраторов + ключ овнера |
 | `configs/RPToolkit-AdminLink/allowed_ips.txt` | белый список IP (необязательно) |
 
-`configs/` — это папка конфигов EXILED (обычно
-`%AppData%\EXILED\Configs` или рядом с сервером). Модуль создаёт папку
-`RPToolkit-AdminLink` сам при первом сохранении.
-
 **В конфиге плагина (`RpToolkit.yml` / конфиг EXILED) появилась секция:**
 
 ```yaml
